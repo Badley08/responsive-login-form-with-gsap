@@ -20,9 +20,7 @@ You can **clone** the repository to your local machine or **fork** it in your Gi
 
 ```bash
 # Clone the repository using HTTPS
-git clone https://github.com/bedimcode/responsive-login-form-with-gsap.git
+git clone https://github.com/badley08/responsive-login-form-with-gsap.git
 ```
-
-Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)**
 
 ![preview img](/preview.png)
